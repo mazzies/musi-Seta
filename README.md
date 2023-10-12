@@ -1,2 +1,5 @@
-# seta
-toki pona The Legend of Zelda
+musi Seta
+-
+
+The Legend of Zelda
+-
