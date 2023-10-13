@@ -25,3 +25,12 @@ you'll need these to play:
 - [the translation patch!](https://github.com/mazzies/musi-Seta/releases/tag/v1.0)
 
 enjoy!
+
+sitelen / screenshots
+-
+
+![image](https://github.com/mazzies/musi-Seta/assets/147736467/d8f7b9c8-1605-409e-b90c-7e8a1f8828d1)
+![image](https://github.com/mazzies/musi-Seta/assets/147736467/faa6b0cb-0a4f-4f58-974c-4707f4e3f8d6)
+![image](https://github.com/mazzies/musi-Seta/assets/147736467/41cd4a73-9d51-4662-9083-2821d12cf3ba)
+![image](https://github.com/mazzies/musi-Seta/assets/147736467/5b822c18-b2a9-4f43-93cb-72b1b4bbe3cd)
+![image](https://github.com/mazzies/musi-Seta/assets/147736467/4374f5a4-489d-460f-a7c9-b33c32129826)
