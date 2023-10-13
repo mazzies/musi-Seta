@@ -8,7 +8,7 @@ o musi kepeken ni:
 - lipu "The Legend of Zelda, The (USA).nes" (tenpo la ni li nanpa wan a.  sina taso li ken alasa e ona sina!)
 - ilo [LunarIPS](https://www.romhacking.net/utilities/240/)
 - ilo [Nestopia](https://nestopia.sourceforge.net/) anu ilo [Mesen](https://mesen.ca/) anu ilo sama
-- [toki pona!](https://github.com/mazzies/musi-Seta/releases/tag/v1.0)
+- [toki pona!](https://github.com/mazzies/musi-Seta/releases/tag/v1.1)
 
 musi pona!
 
@@ -22,7 +22,7 @@ you'll need these to play:
 - this specific rom: "The Legend of Zelda, The (USA).nes" (this is the 1.0 release, not a revision.  only you can find your rom!)
 - the patcher [LunarIPS](https://www.romhacking.net/utilities/240/)
 - an emulator like [Nestopia](https://nestopia.sourceforge.net/) or [Mesen](https://mesen.ca/)
-- [the translation patch!](https://github.com/mazzies/musi-Seta/releases/tag/v1.0)
+- [the translation patch!](https://github.com/mazzies/musi-Seta/releases/tag/v1.1)
 
 enjoy!
 
