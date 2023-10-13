@@ -5,7 +5,7 @@ ni li musi Seta (The Legend of Zelda).  ale ona li toki pona.  sitelen pona en s
 musi tu li lon.  sina wile musi nanpa tu la o nimi 🜶SETA
 
 o musi kepeken ni:
-- lipu "The Legend of Zelda, The (USA).nes" (tenpo la ni li nanpa a.  sina taso li ken alasa e ona sina!)
+- lipu "The Legend of Zelda, The (USA).nes" (tenpo la ni li nanpa wan a.  sina taso li ken alasa e ona sina!)
 - ilo [LunarIPS](https://www.romhacking.net/utilities/240/)
 - ilo [Nestopia](https://nestopia.sourceforge.net/) anu ilo [Mesen](https://mesen.ca/) anu ilo sama
 - [toki pona!](https://github.com/mazzies/musi-Seta/releases/tag/v1.0)
